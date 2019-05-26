@@ -1,0 +1,69 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 5,
+	"caret_extra_top": 5,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"create_window_at_startup": false,
+	"default_encoding": "UTF-8",
+	"detect_indentation": false,
+	"enable_tab_scrolling": false,
+	"file_exclude_patterns":
+	[
+		"._*",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"fold_buttons": true,
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"no_bold",
+		"subpixel-antialias"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"material_theme_compact_panel": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"rulers": false,
+	"show_tab_close_button": false,
+	"status_bar_brighter": true,
+	"tab_size": 4,
+	"tabs_medium": true,
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
