@@ -4,13 +4,17 @@
 	"caret_extra_top": 5,
 	"caret_extra_width": 3,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"create_window_at_startup": false,
 	"default_encoding": "UTF-8",
 	"detect_indentation": false,
 	"enable_tab_scrolling": false,
 	"file_exclude_patterns":
 	[
+        ".idea",
+        ".vscode",
+        "*.lock",
+        "*-lock.json",
 		"._*",
 		"*.pyc",
 		"*.pyo",
@@ -34,7 +38,7 @@
 		"*.sublime-workspace"
 	],
 	"fold_buttons": true,
-	"font_face": "Ubuntu Mono",
+	"font_face": "Operator Mono",
 	"font_options":
 	[
 		"no_bold",
@@ -61,7 +65,7 @@
 	"status_bar_brighter": true,
 	"tab_size": 4,
 	"tabs_medium": true,
-	"theme": "Material-Theme-Palenight.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
