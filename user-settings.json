@@ -9,12 +9,15 @@
 	"default_encoding": "UTF-8",
 	"detect_indentation": false,
 	"enable_tab_scrolling": false,
-	"file_exclude_patterns":
-	[
+    "folder_exclude_patterns": [
         ".idea",
         ".vscode",
-        "*.lock",
-        "*-lock.json",
+        "node_modules",
+        "vendor",
+    ],
+	"file_exclude_patterns": [
+		"*.lock",
+		"*-lock.json",
 		"._*",
 		"*.pyc",
 		"*.pyo",
@@ -39,20 +42,17 @@
 	],
 	"fold_buttons": true,
 	"font_face": "Operator Mono",
-	"font_options":
-	[
+	"font_options": [
 		"no_bold",
 		"subpixel-antialias"
 	],
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"Vintage"
 	],
-	"indent_guide_options":
-	[
+	"indent_guide_options": [
 		"draw_normal"
 	],
 	"line_padding_bottom": 3,
